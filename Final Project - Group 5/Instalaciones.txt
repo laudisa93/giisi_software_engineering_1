@@ -1,0 +1,5 @@
+pista exterior/8/inst01
+pista exterior/8/inst02
+pista exterior/8/inst03
+pista cubierta/10/inst04
+pista cubierta/10/inst05
